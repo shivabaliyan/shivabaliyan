@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @shivabaliyan
-- 👀 I’m interested in coading
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a Data Analyst
 - 📫 How to reach me 7078371715
 
 <!---
